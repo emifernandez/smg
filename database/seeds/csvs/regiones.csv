@@ -1,0 +1,19 @@
+id;pais_id;nombre;capital;superficie_km2;cantidad_distritos
+PY-1;178;Concepción;Concepción;18051;12
+PY-2;178;San Pedro;San Pedro de Ycuamandiyú;20002;21
+PY-3;178;Cordillera;Caacupé;4948;20
+PY-4;178;Guairá;Villarrica;3846;18
+PY-5;178;Caaguazú;Coronel Oviedo;11474;22
+PY-6;178;Caazapá;Caazapá;9496;11
+PY-7;178;Itapúa;Encarnación;16525;30
+PY-8;178;Misiones;San Juan Bautista;9556;10
+PY-9;178;Paraguarí;Paraguarí;8705;18
+PY-10;178;Alto Paraná;Ciudad del Este;14895;22
+PY-11;178;Central;Areguá;2465;19
+PY-12;178;Ñeembucú;Pilar;12147;16
+PY-13;178;Amambay;Pedro Juan Caballero;12933;5
+PY-14;178;Canindeyú;Salto del Guairá;14667;14
+PY-15;178;Presidente Hayes;Villa Hayes;72907;8
+PY-16;178;Alto Paraguay;Fuerte Olimpo;82349;4
+PY-17;178;Boquerón;Filadelfia;91669;3
+PY-ASU;178;Capital;Asunción;117;1

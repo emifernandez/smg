@@ -1,0 +1,6 @@
+venta_id;item;cantidad;precio_modalidad_id;precio_modalidad_tiempo_id;precio_unitario;iva5;iva10;total
+1;1;1;1;MENSUAL;150000;;13636.3636;150000
+1;2;1;1;MENSUAL;150000;;13636.3636;150000
+2;1;1;1;MENSUAL;150000;;13636.3636;150000
+3;1;1;1;MENSUAL;150000;;13636.3636;150000
+4;1;1;1;MENSUAL;150000;;13636.3636;150000

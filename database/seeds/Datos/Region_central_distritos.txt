@@ -1,0 +1,20 @@
+id;region_id;distrito;superficie_km2
+1;PY-11;Areguá;110
+2;PY-11;Capiatá;83
+3;PY-11;Fernando de la Mora;21
+4;PY-11;Guarambaré;59
+5;PY-11;Itá;190
+6;PY-11;Itauguá;122
+7;PY-11;Lambaré;39
+8;PY-11;Limpio;118
+9;PY-11;Luque;203
+10;PY-11;Mariano Roque Alonso;50
+11;PY-11;Nueva Italia;312
+12;PY-11;Ñemby;40
+13;PY-11;San Antonio;29
+14;PY-11;San Lorenzo;41
+15;PY-11;Villa Elisa;22
+16;PY-11;Villeta;888
+17;PY-11;Ypacaraí;111
+18;PY-11;Ypané;54
+19;PY-11;Julián Augusto Saldívar;51

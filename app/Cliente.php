@@ -9,14 +9,21 @@ class Cliente extends Model
     protected $table = 'clientes';
 
     protected $fillable = [
-        'documento',
         'nombre',
         'apellido',
+        'documento',
+        'ruc',
         'fecha_nacimiento',
-        'fecha_ingreso',
+        'nacionalidade',
+        'regione',
+        'ciudade',
+        'barrio',
         'direccion',
         'telefono',
-        'celular',
+        'email',
+        'fecha_ingreso',
+        'calificacione',
+        'tipoCliente',
         'alergias',
         'antecedentes',
         'objetivo',
@@ -26,4 +33,9 @@ class Cliente extends Model
         'created_at',
         'updated_at',
     ];
+
+    public function ventas()
+    {
+        return $this->hasMany('Venta');
+    }
 }

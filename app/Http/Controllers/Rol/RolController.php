@@ -19,6 +19,7 @@ class RolController extends ApiController
     {
         $roles = Rol::all();
         return $this->showAll($roles);
+
     }
 
     /**
